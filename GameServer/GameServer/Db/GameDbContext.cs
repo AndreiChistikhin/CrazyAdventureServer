@@ -10,4 +10,5 @@ public class GameDbContext : DbContext
     }
 
     public DbSet<User> Users { get; set; }
+    public DbSet<TimePassed> TimePassed { get; set; }
 }

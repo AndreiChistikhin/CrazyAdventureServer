@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8dst48GO6sZ4oqBnr3oOuLIuoYemr3ZUDQDyjpP5X4LgfMsq1nlVs2SQ5A8Ygir/GkEy/srtNs2SIdn+eR0zyw==",
+  "dgSpecHash": "LB9s1TwPVT7Kdq3TxTNh+N8lsz1jveMEQjXrVVI21A3ZchRFULoafKj3HLL6LNSTL/yaS3IeROWzOHYest01Cg==",
   "success": true,
   "projectFilePath": "E:\\Projects\\Learning\\GameServer\\GameServer\\GameServer\\GameServer.csproj",
   "expectedPackageFiles": [
@@ -21,6 +21,7 @@
     "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.0\\microsoft.entityframeworkcore.design.7.0.0.nupkg.sha512",
     "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.0\\microsoft.entityframeworkcore.relational.7.0.0.nupkg.sha512",
     "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.0\\microsoft.entityframeworkcore.sqlserver.7.0.0.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.0\\microsoft.entityframeworkcore.tools.7.0.0.nupkg.sha512",
     "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
